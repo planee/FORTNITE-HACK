@@ -1,4 +1,3 @@
-TEST
 
 Features
 Aimbot
@@ -72,9 +71,9 @@ Thanks and Rep to:
 
 Links
 
-    GitHub - https://github.com/Griizz/Fortnite-Hack
-    Download dll new - https://www.unknowncheats.me/forum/d...=file&id=21405
-    Download dll old - https://www.unknowncheats.me/forum/d...=file&id=21402
+    GitHub - https://github.com/xxvirusxx6767/FORTNITE-HACK
+    Download dll new - https://www.unknowncheats.me/forum/downloads.php?do=file&id=21405
+    Download dll old - https://www.unknowncheats.me/forum/downloads.php?do=file&id=21402
     How to Compile Source1 - How to compile a dll AKA how to use michaelsoft visual studio
     How to Compile Source2 - how 2 compile a dll pt. 2 AKA how to use gathub
 
